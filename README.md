@@ -9,4 +9,4 @@ UART.h provide uart function in linux.
 
 FingerPrint.c contains the main function.
 
-Before running the program, use command <ls /dev/usb> to see which serial port is used.
+Before running the program, use command `ls /dev/usb` to see which serial port is used.
